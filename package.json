@@ -1,0 +1,19 @@
+{
+  "name": "job-list",
+  "version": "0.0.1",
+  "description": "this project is a practise for fetching from backend",
+  "main": "index.js",
+  "scripts": {
+    "start": "concurrently \"npm:server\" \"npm:client\"",
+    "server": "cd joboards-server && node server.js",
+    "client": "cd joboards-client && live-server --port=8080"
+  },
+  "author": "Yujun",
+  "license": "MIT",
+  "devDependencies": {
+    "concurrently": "^7.0.0"
+  },
+  "dependencies": {
+    "live-server": "^1.2.2"
+  }
+}

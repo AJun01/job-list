@@ -1,0 +1,159 @@
+[
+    {
+      "job_id": 39485,
+      "posting_date": "10/1/2024",
+      "expires_date": "12/31/2024",
+      "company": {
+        "name": "Acme, Corporation",
+        "address": {
+          "line1": "1 Main Street",
+          "line2": "Suite 200",
+          "city": "Chicago",
+          "state": "IL",
+          "postal_code": 987822,
+          "country_code": "USA"
+        },
+        "contact": {
+          "name": "Mr. Smith",
+          "email": "jobs@acme.com",
+          "website": "https://www.acme.com",
+          "phone": "+1 433 343-2322"
+        },
+        "position": {
+          "title": "Senior Accountant",
+          "description": "This is a senior role. 8+ years of experience only.",
+          "skills": [
+            "CPA",
+            "QuickBooks",
+            "GAAP Certification",
+            "Payroll",
+            "Taxation"
+          ],
+          "department": "Finance",
+          "years_experience": "8+",
+          "employment_type": "Full Time",
+          "contractual": false,
+          "languages": [
+            "English",
+            "French",
+            "Spanish"
+          ]
+        }
+      }
+    },
+    {
+      "job_id": 198332,
+      "posting_date": "10/3/2024",
+      "expires_date": "12/14/2024",
+      "company": {
+        "name": "Hamburger R-Us, LLC",
+        "address": {
+          "line1": "10 Layent Blvd",
+          "city": "San Diego",
+          "state": "CA",
+          "postal_code": 82212,
+          "country_code": "USA"
+        },
+        "contact": {
+          "name": "Mrs. Butterwick",
+          "email": "jobs@burgers.com",
+          "website": "https://www.burgers.com",
+          "phone": "+1 877 900-1228"
+        },
+        "position": {
+          "title": "Senior Burger Flipper",
+          "description": "Experience only. Must love burgers.",
+          "skills": [
+            "Burgers",
+            "Fries",
+            "Milkshakes",
+            "Ketchup",
+            "Mayo"
+          ],
+          "department": "Service",
+          "years_experience": "3+",
+          "employment_type": "Full Time",
+          "contractual": false,
+          "languages": [
+            "English"
+          ]
+        }
+      }
+    },
+    {
+      "job_id": 567890,
+      "posting_date": "10/5/2024",
+      "expires_date": "12/31/2024",
+      "company": {
+        "name": "Tech Solutions Inc.",
+        "address": {
+          "line1": "500 Tech Road",
+          "city": "Austin",
+          "state": "TX",
+          "postal_code": 73301,
+          "country_code": "USA"
+        },
+        "contact": {
+          "name": "Jane Doe",
+          "email": "careers@techsolutions.com",
+          "website": "https://www.techsolutions.com",
+          "phone": "+1 512 555-1234"
+        },
+        "position": {
+          "title": "Software Engineer",
+          "description": "Looking for passionate software engineers.",
+          "skills": [
+            "JavaScript",
+            "Node.js",
+            "React",
+            "CSS"
+          ],
+          "department": "Engineering",
+          "years_experience": "2+",
+          "employment_type": "Full Time",
+          "contractual": false,
+          "languages": [
+            "English"
+          ]
+        }
+      }
+    },
+    {
+        "job_id": 3423512,
+        "posting_date": "11/5/2024",
+        "expires_date": "3/21/2025",
+        "company": {
+          "name": "Gig Tech Inc.",
+          "address": {
+            "line1": "400 Tech Road",
+            "city": "Austin",
+            "state": "TX",
+            "postal_code": 73301,
+            "country_code": "USA"
+          },
+          "contact": {
+            "name": "Yujun Liu",
+            "email": "yujunliu150@gmail.com",
+            "website": "https://www.yujunliu.com",
+            "phone": "+1 215 2816977"
+          },
+          "position": {
+            "title": "Software Engineer",
+            "description": "Looking for passionate software engineers.",
+            "skills": [
+              "JavaScript",
+              "Node.js",
+              "React",
+              "CSS"
+            ],
+            "department": "Engineering",
+            "years_experience": "99+",
+            "employment_type": "Extra Time",
+            "contractual": false,
+            "languages": [
+              "English"
+            ]
+          }
+        }
+      }
+  ]
